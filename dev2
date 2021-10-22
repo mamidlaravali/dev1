@@ -1,0 +1,8 @@
+git branch( list all local branches)
+git branch -a ( list all local and remote)
+git branch branch_name ( create a new branch)
+git checkout branch_name ( move to specific branch)
+git checkout -b branchname (create a branch and move into it)
+git merge branch name
+git branch -d branch_name (merged)
+git branch -D branch_name ( not merged)
